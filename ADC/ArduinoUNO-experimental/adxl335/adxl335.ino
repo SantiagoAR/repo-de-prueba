@@ -76,4 +76,4 @@ void adc_lec(){
       
 }
 
-
+//modificando
