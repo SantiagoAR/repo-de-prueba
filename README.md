@@ -1,5 +1,5 @@
 # repo-experimental
 
-![Vista PCB](CDR-logo.svg?raw=true "PCB")
+![Vista PCB](Coheteria.jpg?raw=true "PCB")
 
 Repositorio experimental para aprender mas sobre github
