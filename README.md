@@ -1,5 +1,5 @@
 # repo-experimental
 
-![Vista PCB](41151.jpg?raw=true "PCB")
+![Vista PCB](Coheteria.pdf?raw=true "PCB")
 
 Repositorio experimental para aprender mas sobre github
